@@ -41,12 +41,12 @@
             <groupId>mysql</groupId>
             <artifactId>mysql-connector-java</artifactId>
         </dependency>
-        <!--lombok用来简化实体类-->
         <dependency>
             <groupId>org.projectlombok</groupId>
             <artifactId>lombok</artifactId>
         </dependency>
     </dependencies>
+   <!-- test-00 -->
     <build>
         <plugins>
             <plugin>
